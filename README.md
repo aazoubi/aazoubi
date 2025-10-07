@@ -27,7 +27,6 @@
 - 🧩 Advocate for clean architecture patterns — Hexagonal, Onion & Modular Monoliths  
 - 💬 Ask me about: **process automation, microservices, cloud architecture, CI/CD**  
 - ✍️ I share insights & articles on [LinkedIn](https://www.linkedin.com/in/ahmad-a-635b8739/)  
-- 📫 Reach me at: **ixxx@gmail.com**
 
 ---
 
