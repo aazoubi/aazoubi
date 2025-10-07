@@ -41,10 +41,10 @@
 ---
 
 ### 🕰️ Tech Journey
-- 🏗️ 2012–2016 → Java backend developer & early microservices adoption  
-- ☁️ 2016–2020 → Shift to DevOps, CI/CD, Docker & Kubernetes  
-- 🧭 2020–2024 → Cloud & Platform Engineer at Nord/LB, modernizing enterprise systems  
-- 🤖 2024–now → Exploring AI-driven workflows with n8n, Camunda 8 & Spring Modulith  
+🧩 2013–2016 → Java EE Developer at Concordia — built JPA-based business apps and BiPRO integrations  
+💻 2016–2017 → Software Developer at Talanx Systeme AG — improved eVB systems within agile teams  
+☁️ 2017–Present → Cloud Engineer at Nord/LB — modernizing legacy payment systems & leading large-scale cloud migration  
+🤖 2024–now → Expanding into AI-driven automation — building agentic workflows with n8n, Camunda 8 & Spring Modulith  
 
 ---
 
