@@ -12,7 +12,7 @@
 
 ### ⚙️ Focus Areas
 <p align="center">
-  <img src="https://img.shields.io/badge/☁️ Cloud%20Engineering-azure%20|%20aws%20|%20kubernetes-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☁️ Cloud%20Engineering-azure%20|%20gcp%20|%20kubernetes-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🧩 Microservices%20&%20Architecture-springboot%20|%20modulith%20|%20hexagonal-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🤖 AI%20Automation-n8n%20|%20camunda%20|%20ollama-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🚀 DevOps%20&%20CI/CD-docker%20|%20jenkins%20|%20gitlab-red?style=for-the-badge" />
