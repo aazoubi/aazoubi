@@ -61,6 +61,25 @@
 - **GATE24** (NORD/LB) — replaced 30+ year old payment-rail core with Azure microservices.
 - **Homelab Multi-Cluster** — prod k3s + dev k3d, ~50 services, fully GitOps via ArgoCD.
 
+### Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aazoubi&show_icons=true&count_private=true&hide_border=false&bg_color=0a0a0a&title_color=3b82f6&text_color=fafafa&icon_color=2563eb&border_color=1f1f1f" alt="Ahmad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aazoubi&layout=compact&hide_border=false&bg_color=0a0a0a&title_color=3b82f6&text_color=fafafa&border_color=1f1f1f" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aazoubi&theme=dark&hide_border=false&background=0a0a0a&stroke=1f1f1f&ring=3b82f6&fire=2563eb&currStreakLabel=3b82f6&sideNums=fafafa&currStreakNum=fafafa&dates=9ca3af&sideLabels=9ca3af" alt="Streak Stats" />
+</p>
+
+> Public account only. Enterprise activity at NORD/LB is behind private infrastructure — the badge below signals it exists without leaking details.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Enterprise%20Contributions-NORD%2FLB%20(private)-4b5563?style=for-the-badge" alt="Enterprise Contributions at NORD/LB (private)" />
+  <img src="https://img.shields.io/badge/13%2B%20years-Java%20%C2%B7%20Spring%20%C2%B7%20DevOps-2563eb?style=for-the-badge" alt="13+ years experience" />
+  <img src="https://img.shields.io/badge/Domains-Banking%20%C2%B7%20Insurance%20%C2%B7%20Healthcare-4f46e5?style=for-the-badge" alt="Domain experience" />
+</p>
+
 ### Writing
 
 Articles + posts on architecture, automation, and mind-vs-AI on [LinkedIn](https://linkedin.com/in/ahmad-al-zoubi-ai) — tagged `#ZoubiVision`.
